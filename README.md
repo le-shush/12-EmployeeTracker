@@ -1,7 +1,7 @@
 
 # 12-Employee Tracker 
 
-![GitHub license](https://img.shields.io/badge/license-undefined-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
@@ -26,7 +26,7 @@ npm i
 Use freely
 
 ## License
-        This project is licensed under the undefined license.
+        This project is licensed under the MIT license.
 
 ## Contribution
 
