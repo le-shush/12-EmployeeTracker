@@ -7,7 +7,8 @@
 
 An sql CLI to access, add, delete and manage employees.
 
-This project was created by refactoring code from the course, online forums, from friend's advice and with the help of ChatGPT and Github CoPilot to reduce development times. 
+## Disclaimer
+This project was created by refactoring code from the course, online forums, from friends' advice and with the help of ChatGPT and Github CoPilot to reduce development time. 
 
 ## Table of Contents
 
